@@ -10,11 +10,11 @@
   </p>
 
   
- - 👨 💻 Todos os meus projetos estão disponíveis em [https://portfolio-thais-lyart.vercel.app/](https://portfolio-thais-lyart.vercel.app/)
+ - 💻 [https://portfolio-thais-lyart.vercel.app/](https://portfolio-thais-lyart.vercel.app/)
 
 - Linkedin: [https://www.linkedin.com/in/tha%C3%ADs-lima-silva/]( https://www.linkedin.com/in/tha%C3%ADs-lima-silva/)
 
-- 📫 Como chegar até mim **Thayslimma@hotmail.com**
+- 📫 **Thayslimma@hotmail.com**
 
 
 <h3 align="left">Possuo conhecimento em:</h3>
