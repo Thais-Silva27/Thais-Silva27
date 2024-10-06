@@ -1,5 +1,5 @@
 
-👋 <h1 align="center">Olá Me chamo Thaís</h1>
+ <h1 align="center"> 👋 Olá me chamo Thaís</h1>
 <h3 align="center">Seja bem-vindo (a) ao meu Github 😄</h3>
 
   <p>
