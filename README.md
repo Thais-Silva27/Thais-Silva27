@@ -3,7 +3,7 @@
 <h3 align="center">Seja bem-vindo (a) ao meu Github 😄</h3>
 
   <p>
-    Atualmente, estou em formação como desenvolvedora e cursando Engenharia de Front-end, dedicando-me intensamente à minha transição de carreira. Este é um projeto de autorrealização pessoal e profissional que tenho abordado com grande entusiasmo. Possuo habilidades excepcionais de comunicação e foco em metas e objetivos.
+    Atualmente, estou em formação como desenvolvedora cursando Análise e desenvolvimento de sistemas, dedicando-me intensamente à minha transição de carreira. Este é um projeto de autorrealização pessoal e profissional que tenho abordado com grande entusiasmo. Possuo habilidades excepcionais de comunicação e foco em metas e objetivos.
   </p>
     <p>
     No campo do desenvolvimento Front-end, estou aplicando meus conhecimentos em diversos projetos iniciais com as seguintes tecnologias: 👩‍💻 HTML, CSS, JavaScript, jQuery, SASS, LESS, Bootstrap, TypeScript, Grunt, Gulp, React e Git.
